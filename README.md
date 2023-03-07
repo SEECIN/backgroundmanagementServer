@@ -1,4 +1,4 @@
-# backgroundmanargementServer
+# backgroundmanagementServer
 ### 这是由nodejs+express+sequlize+mysql搭建的后台管理系统后端接口
 
 克隆到本地后直接npm run start即可使用
